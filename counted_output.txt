@@ -1,0 +1,5 @@
+plane 2
+world 3
+today 3
+hello 3
+dog 1
